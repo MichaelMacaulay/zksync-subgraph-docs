@@ -2,6 +2,8 @@
 
 Getting historical data on smart contracts can be frustrating when building a dapp. [The Graph](https://thegraph.com/) offers a powerful way to query smart contract data with open APIs known as subgraphs. Subgraphs can be created or queried by anyone, making the data available to the entire ecosystem! The Graph is powered by hundreds of independent Indexers, enabling your dapp to become truly decentralized.
 
+Developers can use 100,000 free queries per month by using The Graph Network.
+
 ## Quick Start
 
 Subgraphs index emitted events by default (but more functionality can be added later). A subgraph can be created in just a few minutes by following these steps:
@@ -9,11 +11,6 @@ Subgraphs index emitted events by default (but more functionality can be added l
 1. Initialize your subgraph
 2. Publish your subgraph to The Graph Network
 3. Query from your dapp with your unique API key
-
-Pricing:
- - You receive 100,000 free queries per month.
- - The rate-limited test endpoints in [Subgraph Studio](https://thegraph.com/studio/) are free.
- - After your first 100,000 queries, it will cost $4 per 100k additional queries.
 
 Here is a step by step walk through:
 
