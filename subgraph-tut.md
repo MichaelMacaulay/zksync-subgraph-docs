@@ -43,7 +43,7 @@ graph init --studio <SUBGRAPH_SLUG>
 ```
 You’ll be prompted to provide some info on your subgraph like this:
 
-![cli sample](https://lh7-us.googleusercontent.com/docsz/AD_4nXdTAUsUb5vbs3GtCrhKhuXM1xYoqqooYTxw6lfJfYtLJNP8GKVOhTPmjxlM1b6Qpx-pXNVOzRuc8BL12wZXqy4MIj8ja0tp15znfuJD_Mg84SSNj3JpQ4d31lNTxPYnpba4UOzZx8pmgOIsbI7vCz70v9gC?key=fnI6SyFgXU9SZRNX5C5vPQ)
+![cli sample](https://github.com/graphprotocol/docs/blob/584a52ce3ef0e9e745e5a2cc6c9e5f4583306ffe/website/public/img/CLI-Example.png)
 
 
 Simply have your contract verified on the block explorer and the CLI will automatically obtain the ABI and set up your subgraph. The default settings will generate an entity for each event.
